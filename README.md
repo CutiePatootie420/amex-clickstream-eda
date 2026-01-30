@@ -1,9 +1,10 @@
-# AMEX Clickstream EDA
+# AmEx Clickstream EDA
 
-Exploratory Data Analysis (EDA) on the AMEX dataset to understand data quality, missingness, and duplication patterns.
+Exploratory Data Analysis (EDA) on the AmEx dataset to understand data quality, missingness, and duplication patterns.
 
 ## Dataset
 - The dataset `amex_data.csv` is **not included** in this repo.
+- Download the dataset from(https://www.kaggle.com/datasets/pratsharma7/the-american-express-campus-challenge-dataset).
 - Place the dataset in `data/raw/` before running the notebook.
 
 ## Project Structure
